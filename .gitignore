@@ -1,0 +1,11 @@
+# Virtual Env
+.env/
+
+# Swap
+*.swp
+
+# Backup
+*.bak
+
+# Config files
+*.txt
